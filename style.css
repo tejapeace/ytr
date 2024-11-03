@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)http://127.0.0.1:5500/project/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style_files/style.css"> 
+
+    <link rel="stylesheet" href="./style_files/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <title>Responsize personal portfolio website Design| @heresthecode</title>
+</head>
+<body>
+
+    <header class="header">
+        <a href="http://127.0.0.1:5500/project/index.html#" class="logo">Portfolio</a>
+
+        <i class="fa-solid fa-bars" id="menu-icon"></i>
+
+        <nav class="navbar">
+            <a href="http://127.0.0.1:5500/project/index.html#home" class="active">Home</a>
+            <a href="http://127.0.0.1:5500/project/index.html#about">About</a>
+            <a href="http://127.0.0.1:5500/project/index.html#services">Services</a>
+            <a href="http://127.0.0.1:5500/project/index.html#portfolio">Portfolio</a>
+            <a href="http://127.0.0.1:5500/project/index.html#contact">Contact</a>
+        </nav>
+    </header>
+
+
+    <section class="home" id="home">
+        <div class="home-content">
+            <h3>Hi, Myself</h3>
+            <h1>Dharma Teja</h1>
+            <h3>And I'm a <span> Frontend Developer</span></h3>
+            <p> hhghghbcjcjjhggygrjhuguhgirhhhugyrguhfkjhugfbrufhihugbfhishuguhifhgyfgyguhuhyvhbshihugyuhfhugy  </p>
+            <div class="social-meida">
+                <a href="http://127.0.0.1:5500/project/index.html#"><i class="fa-brands fa-instagram"></i></a>
+                <a href="http://127.0.0.1:5500/project/index.html#"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="http://127.0.0.1:5500/project/index.html#"><i class="fa-brands fa-youtube"></i></a>
+            </div>
+            <a href="http://127.0.0.1:5500/project/index.html#" class="btn">Download CV</a>
+        </div>
+
+        <div class="home-img">
+            <img src="./style_files/WhatsApp_Image_2024-09-25_at_8.03.14_AM_qojyqz.png">
+        </div>
+    </section>
+
+
+    <section class="about" id="about">
+        <div class="about-img">
+            <img src="./style_files/WhatsApp_Image_2024-10-15_at_8.16.22_PM_vo292z.png">
+        </div>
+
+        <div class="about-content">
+            <h2 class="heading">About <span>Me</span></h2>
+            <h3>Frontend Developer</h3>
+            <p>Hello,I'm Dharma Teja,currently pursing a Bachelor's degree in Electronics and Communication Engineering at RGM Collage of Engineering,Nandyal.I have a basic foundation in web development,with skills in HTML,CSS,and a medium level of proficiency in python and low level in java</p>
+        </div>
+    </section>
+
+
+    <section class="services" id="services">
+        <h2 class="heading">My <span>Services</span></h2>
+
+        <div class="services-container">
+            <div class="services-box">
+                <i class="fa-solid fa-video"></i>
+                <h3>Video Editing</h3> 
+                <p>We provide video editing services to make yours videos look professional. This includes cutting,adding effects,and improving colors.for personal projects, social media use.</p> 
+            </div>
+
+            <div class="services-box">
+                <i class="fa-solid fa-panorama"></i>
+                <h3>Photo Editing</h3> 
+                <p>We offer professional photo editing services to enhance your images. This includes retouching,color correction,and background removel for personal photos,social media use.</p> 
+            </div>
+
+            
+        </div>
+    </section>
+
+    <section class="portfolio" id="portfolio">
+        <h2 class="heading">Latest <span>Projects</span></h2>
+
+        <div class="portfolio-container">
+            <div class="portfolio-box">
+                <img src="./style_files/WhatsApp_Image_2024-10-14_at_3.39.03_PM_sc1cvb.png">
+                <div class="portfolio-layer">
+                    <h4>Web Design</h4>
+                    <p>ghgjggfgfguyuyu</p>
+                    <i class="fa-solid fa-up-right-from-square"></i>
+                </div>
+            </div>
+
+                <div class="portfolio-box">
+                    <img src="./style_files/WhatsApp_Image_2024-10-16_at_8.22.43_PM_txcoyk.png">
+                    <div class="portfolio-layer">
+                        <h4>Hotel Design</h4>
+                        <p>ghgjggfgfguyu</p>
+                        <i class="fa-solid fa-up-right-from-square"></i>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact" id="contact">
+        <h2 class="heading">Contact <span>Me</span></h2>
+
+        <form action="http://127.0.0.1:5500/project/index.html#">
+            <div class="input-box">
+                <input type="text" placeholder="Full Name">
+                <input type="email" placeholder="Email Address">
+            </div>
+
+            <div class="input-box">
+                <input type="number" placeholder="Mobile Number">
+                <input type="text" placeholder="Email Subject">
+            </div>
+            <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
+            <input type="submit" value="Send Message" class="btn">
+        </form>
+    </section>
+
+
+    <footer class="footer">
+        <div class="footer-text">
+            <p></p>
+        </div>
+
+        <div class="footer-iconTop">
+            <a href="http://127.0.0.1:5500/project/index.html#home"><i class="fa-solid fa-angle-up"></i></a>
+        </div>
+    </footer>
+
+
+    <script src="./style_files/main.js.download"></script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
